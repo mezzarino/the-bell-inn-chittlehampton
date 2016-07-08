@@ -1,0 +1,92 @@
+nav ul     
+{ 
+	/*display: none; */
+}
+
+nav
+{
+	/*background-color:transparent;*/
+	padding:0;
+	margin:0;
+}
+  
+nav select 
+{ 
+	display: inline-block;
+	margin:1em 0 1em 0;
+	width:100%;
+	padding:1.2em;
+	background:#A0D8EF;
+	border:solid 1px #999;
+	color:#ffffff;
+	font-family:Georgia, Times New Roman, Times, Serif;
+	font-size:1.1em;
+}
+
+#site-title h1
+{
+	/*font-size:2.4em!important;*/	
+}
+
+#site-description h2,
+#site-description h3
+{
+	/*font-size: 0.9em!important;*/	
+}
+
+nav select option
+{	
+}
+
+/*#cred-logos,*/
+/*#keynote-image
+{
+	display:none;
+}*/
+
+#left-column
+{
+	width:100%!important;
+}
+
+article
+{
+	padding:0;
+}
+
+#right-column,
+#email-form,
+#google-map
+{
+	/*display:none;*/
+	clear:both!important;
+	float:left!important;
+	width:100%!important;
+}
+
+#footer-menu li
+{
+	display:block;
+	border-right:none;
+	padding-left:0;
+}
+
+.js #main-menu 
+{
+	display:none;
+}
+	
+.js .slicknav_menu 
+{
+	display:block;
+	position:fixed;
+	top:0;
+	left:0;
+	width:100%;
+	z-index:99;
+}
+
+#site
+{
+	margin-top:4.2em;	
+}

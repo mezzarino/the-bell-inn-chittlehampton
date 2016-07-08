@@ -1,0 +1,26 @@
+@charset "utf-8";
+/* CSS Document */
+
+nav ul li a
+{	
+	padding:0.5em!important;
+}
+
+#site-description
+{
+	width:50%;	
+}
+
+#site-title
+{
+	padding-bottom:0!important;
+}
+
+#award-logos
+{
+	clear:both;
+	float:left;
+	width:100%;
+	margin-top:0!important;
+}
+

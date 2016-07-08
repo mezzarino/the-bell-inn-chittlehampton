@@ -1,0 +1,82 @@
+@charset "utf-8";
+
+*
+{
+	color:#000000!important;
+}
+
+html
+{
+	margin:0;
+	padding:0;
+	overflow:hidden;
+	height:90%;
+}
+
+body
+{
+	background:transparent;
+}
+
+#contact,
+nav,
+#keynote-image,
+#right-column,
+#copyright,
+#tripadvisor-logo,
+#camra-logo,
+#journal-logo,
+#logos,
+#social-icons,
+#award-logos,
+#weather-widget
+{
+	display:none;
+}
+
+#site
+{
+	width:100%;
+	margin:2em 0 0 0;
+	padding:0;
+	-webkit-border-radius: 0px;
+	-moz-border-radius: 0px;
+	border-radius: 0px;
+	-webkit-box-shadow: 0px0px 0px 0px rgba(149, 184, 219, 0.3);
+	box-shadow: 0px 0px 0px 0px rgba(149, 184, 219, 0.3);
+	background:transparent;
+}
+
+#site-title,
+#site-description
+{
+	width:50%!important;
+}
+
+#site-title
+{
+	padding-bottom:0!important;
+}
+
+#container
+{
+	margin-top:0!important;
+	padding-top:0!important;
+}
+
+#logo
+{
+	width:100%;
+	margin:0;
+	padding:0;
+}
+
+#left-column
+{
+	width:100%!important;
+}
+
+.content-area
+{
+	padding:0;
+}

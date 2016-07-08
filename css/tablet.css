@@ -1,0 +1,44 @@
+
+#site-description
+{
+	/*float:left;
+	text-align:left;	
+	width:100%;*/
+}
+
+#site-description h3,
+#site-description h4
+{
+	/*font-size:0.9em;*/	
+}
+
+#copyright
+{
+	width:100%;
+}
+
+#tripadvisor-logo,
+#camra-logo,
+#journal-logo
+{
+	/*float:left!important;
+	width:50%!important;*/	
+}
+
+.TA_cdsratingsonlynarrow
+{
+	clear:both;
+}
+
+#footer-menu
+{
+	width:100%;
+}
+
+#logos
+{
+	clear:both;
+	float:left;
+	width:100%!important;
+	margin:1em 0 0 0;
+}

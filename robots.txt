@@ -1,0 +1,7 @@
+User-Agent: *
+
+Disallow: /error/
+Disallow: /shop-test.html
+Disallow: /gtm-test.html
+Disallow: /christmas-2014.html
+Disallow: /valenine-2015.html
