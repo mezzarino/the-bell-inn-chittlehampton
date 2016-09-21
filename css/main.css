@@ -34,7 +34,7 @@ body
 
 a
 {
-	color:#f7f3a3;
+	color:#8acbc0;
 	text-decoration:underline;
 }
 
@@ -59,12 +59,12 @@ strong
 	border-radius: 20px;
 	-webkit-box-shadow: 20px 20px 10px 0px rgba(149, 184, 219, 0.3);
 	box-shadow: 20px 20px 10px 0px rgba(149, 184, 219, 0.3);
-	background-color: #187c2f; /* Old browsers */
+	background-color: #162934; /* Old browsers */
 }
 
 header
 {
-	color:#f7f3a3;
+	color:#8acbc0;
 }
 
 #site-title
@@ -185,7 +185,7 @@ p#social-icons img
 
 nav
 {
-	background-color:#005500;
+	background-color:#1d343e;
 	-webkit-border-radius: 10px;
 	-moz-border-radius: 10px;
 	border-radius: 10px;
@@ -200,7 +200,7 @@ nav
 
 #sub-menu-container
 {
-	background-color:#005500;
+	background-color:#1d343e;
 	-webkit-border-radius: 0 0 10px 10px;
 	-moz-border-radius: 0 0 10px 10px;
 	border-radius: 0 0 10px 10px;	
@@ -331,7 +331,7 @@ article h1
 	font-size:1.7em;	
 	font-weight:bold;
 	margin:0 0 0.7em 0;
-	color:#f7f3a3;
+	color:#8acbc0;
 	line-height:1.1em;
 }
 
@@ -342,7 +342,7 @@ article h2
 	font-family: 'Alike', serif;
 	margin:0 0 0.7em 0;
 	line-height:1.2em;
-	color:#f7f3a3;
+	color:#8acbc0;
 }
 
 #right-column h3
@@ -352,7 +352,7 @@ article h2
 	font-family: 'Alike', serif;
 	margin:0 0 0.7em 0;
 	line-height:1.2em;
-	color:#f7f3a3;
+	color:#8acbc0;
 }
 
 article p
@@ -380,7 +380,7 @@ article ul li
 
 article table
 {
-	background-color:#005500;	
+	background-color:#1d343e;	
 }
 
 article table td
@@ -453,7 +453,7 @@ article table td
 .promo-box a.promo-link
 {
 	display:block;
-	background-color:#005500;
+	background-color:#1d343e;
 	-webkit-border-radius: 10px;
 	-moz-border-radius: 10px;
 	border-radius: 10px;
@@ -474,7 +474,7 @@ article table td
 
 #related-downloads li a
 {
-	background-color:#005500;
+	background-color:#1d343e;
 	-webkit-border-radius: 10px;
 	-moz-border-radius: 10px;
 	border-radius: 10px;
@@ -643,7 +643,7 @@ footer
 
 .homepage-whatson
 {
-	background-color:#005500;
+	background-color:#1d343e;
 	-webkit-border-radius: 10px;
 	-moz-border-radius: 10px;
 	border-radius: 10px;
