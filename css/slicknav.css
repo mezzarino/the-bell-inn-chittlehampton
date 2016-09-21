@@ -37,7 +37,7 @@
 	-webkit-border-radius: 4px;
 	-moz-border-radius: 4px;
 	border-radius: 4px;  
-	background-color: #005500;
+	background-color: #1d343e;
 	display:block;
 	width:90%;
 }
@@ -52,7 +52,7 @@
   background-color: #f5f5f5;
 }
 .slicknav_menu {
-	background:#005500;
+	background:#1d343e;
 	padding:5px;
 }
 .slicknav_nav {
